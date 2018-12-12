@@ -1,1 +1,1 @@
-web: gunicorn goodreadse.wsgi
+web: python aiogram_bot.py
