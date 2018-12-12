@@ -8,7 +8,6 @@ astor==0.7.1
 astropy==3.0.5
 async-timeout==3.0.1
 attrs==18.1.0
-aurman==2.18
 Automat==0.7.0
 Babel==2.6.0
 backcall==0.1.0
