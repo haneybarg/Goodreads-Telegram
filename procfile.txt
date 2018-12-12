@@ -1,1 +1,1 @@
-web: python goodreads.py
+web: python aiogram_bots.py
