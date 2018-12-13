@@ -3,9 +3,9 @@
   photo. It uses [[https://github.com/aiogram/aiogram][aiogram api]], a simple an fully asynchronous libray for Telegram Bot API.
 
 * Requirements
-** [[https://pypi.org/project/bs4/][BeautifulSoup: pip]]
-** [[https://pypi.org/project/requests/][Requests: pip]]
-** [[https://pypi.org/project/aiogram/][Aiogram: pip]]
+  - [[https://pypi.org/project/bs4/][BeautifulSoup: pip]]
+  - [[https://pypi.org/project/requests/][Requests: pip]]
+  - [[https://pypi.org/project/aiogram/][Aiogram: pip]]
 
 * Installation
 ** Telegram bot token
