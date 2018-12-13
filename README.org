@@ -17,6 +17,6 @@
 * Running
   After getting the tokens, go to src and add them.
 
-  The, type: /python aiogram_bot.py/.
+  Then, type: /python aiogram_bot.py/.
 
   After that, just call the bot's @name and type the name of the book!
