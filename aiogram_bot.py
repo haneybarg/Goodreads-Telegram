@@ -6,8 +6,8 @@ from aiogram import Bot, types, Dispatcher, executor
 from bs4 import BeautifulSoup
 
 
-BOT_TOKEN = '710421060:AAH7IffP-JE5Dt4-Eu4EFy0TzXOY9iUl9Kg'
-GR_TOKEN = 'MZp1TfpHTTEpMq5HLc0YyA'
+BOT_TOKEN = 'INSERT TELEGRAM TOKEN'
+GR_TOKEN = 'INSERT GOODREADS TOKEN'
 
 logging.basicConfig(level = logging.DEBUG)
 

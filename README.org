@@ -1,0 +1,16 @@
+* Goodreads Bot
+  This is an inline telegram bot that scrapes goodreads for a book rating, synopsis and
+  photo. It uses [[https://github.com/aiogram/aiogram][aiogram api]], a simple an fully asynchronous libray for Telegram Bot API.
+
+* Requirements
+** [[https://pypi.org/project/bs4/][BeautifulSoup: pip]]
+** [[https://pypi.org/project/requests/][Requests: pip]]
+** [[https://pypi.org/project/aiogram/][Aiogram: pip]]
+
+* Installation
+** Telegram bot token
+  First you need a telegram token. You can get one by talking to the [[https://telegram.me/botfather][BotFather]]
+  Just follow the steps and create a bot to get a token.
+
+** Goodreads token
+  You need to register you app to get the [[https://www.goodreads.com/api/keys][goodreads key.]]
