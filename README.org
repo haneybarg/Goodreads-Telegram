@@ -15,5 +15,8 @@
 ** Goodreads token
   You need to register you app to get the [[https://www.goodreads.com/api/keys][goodreads key.]]
 * Running
-  After getting the tokens, go to src and type: python aiogram_bot.py.
-  Then, call the bot's name @name and type the name of the book!
+  After getting the tokens, go to src and add the tokens.
+
+  The, type: /python aiogram_bot.py/.
+
+  After that, just call the bot's @name and type the name of the book!
