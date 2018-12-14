@@ -9,7 +9,7 @@
 
 * Installation
 ** Telegram bot token
-  First you need a telegram token. You can get one by talking to the [[https://telegram.me/botfather][BotFather]]
+  First you need a telegram token. You can get one by talking to the [[https://telegram.me/botfather][BotFather]].
   Just follow the steps and create a bot to get a token.
 
 ** Goodreads token
